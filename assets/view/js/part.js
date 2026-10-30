@@ -239,7 +239,7 @@ function showSuccessMessage() {
                 <li>Order and delivery next steps</li>
             </ul>
             <p><strong>Need assistance?</strong><br>
-            Call us at <a href="tel:+13072280871" style="color: #155724; font-weight: bold;">+1 (307) 228-0871</a></p>
+            Call us at <a href="tel:+13072280891" style="color: #155724; font-weight: bold;">+1 (307) 228-0891</a></p>
         </div>
     `;
 
@@ -268,7 +268,7 @@ function showErrorMessage(message) {
             <p><strong>We encountered an issue while processing your request.</strong></p>
             <p>${message}</p>
             <p><strong>Please try again or contact us directly:</strong><br>
-            Call us at <a href="tel:+13072280871" style="color: #721c24; font-weight: bold;">+1 (307) 228-0871</a><br>
+            Call us at <a href="tel:+13072280891" style="color: #721c24; font-weight: bold;">+1 (307) 228-0891</a><br>
             Email us at <a href="mailto:info@onestopautosalvage.com" style="color: #721c24; font-weight: bold;">info@onestopautosalvage.com</a></p>
         </div>
     `;

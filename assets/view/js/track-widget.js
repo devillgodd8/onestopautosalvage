@@ -394,7 +394,7 @@
 
         '<div class="pt-footer-note">' +
         '<span class="pt-verified"><i class="fa fa-check-circle"></i> Verified Freight Dispatch</span>' +
-        '<span>Logistics Support: <a href="tel:+13072280871" style="color:var(--pt-text);font-weight:600;text-decoration:none;">+1 (307) 228-0871</a></span>' +
+        '<span>Logistics Support: <a href="tel:+13072280891" style="color:var(--pt-text);font-weight:600;text-decoration:none;">+1 (307) 228-0891</a></span>' +
         '</div>';
     }
   };
